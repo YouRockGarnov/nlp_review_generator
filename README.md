@@ -5,7 +5,8 @@
 Создать систему для генерации отзывов о товаре. На входе модели подаётся описание товара и суть + настроение отзыва. На выходе ожидается набор отзывов, из которых можно выбрать лучший и непосредственно разместить в сети.
 
 ## Датасет
-Для обучения используются отзывы с сайта Amazon [Amazon Customer Reviews Dataset](https://s3.amazonaws.com/amazon-reviews-pds/readme.html).YouRockGarnov - ветка yura-gpt:
+Для обучения используются отзывы с сайта Amazon [Amazon Customer Reviews Dataset](https://s3.amazonaws.com/amazon-reviews-pds/readme.html).
+
 
 1) Проделана работа с моделью семейства GPT.
 
